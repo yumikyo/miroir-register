@@ -1,0 +1,14 @@
+{
+  "name": "ミロワール レジ",
+  "short_name": "ミロワール",
+  "description": "ミロワールさん専用の、かんたん会計・売上記録アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#ff6b35",
+  "lang": "ja",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
